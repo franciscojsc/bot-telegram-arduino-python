@@ -3,8 +3,8 @@
   <a href="https://github.com/franciscojsc/bot-telegram-arduino-python/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/fr\_develop" target="_blank">
-    <img alt="Twitter: fr\_develop" src="https://img.shields.io/twitter/follow/fr\_develop.svg?style=social" />
+  <a href="https://twitter.com/fr_develop" target="_blank">
+    <img alt="Twitter: fr_develop" src="https://img.shields.io/twitter/follow/fr_develop.svg?style=social" />
   </a>
 </p>
 
