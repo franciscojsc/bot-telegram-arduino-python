@@ -28,7 +28,7 @@ python bot.py
 
 👤 **Francisco Chaves**
 
-* Website: https://blog.franciscochaves.com
+* Website: [https://franciscochaves.com.br](https://franciscochaves.com.br)
 * Twitter: [@fr\_develop](https://twitter.com/fr\_develop)
 * Github: [@franciscojsc](https://github.com/franciscojsc)
 
